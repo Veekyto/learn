@@ -1,6 +1,9 @@
 a=1
 b=2
 c=a+b
+y=324
 print(c)
 d=[a,b,c]
 d[1]=4
+e=9
+a=9
